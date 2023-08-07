@@ -1,0 +1,7 @@
+installer 
+
+npm install dotenv   ENV
+npm install pg
+npm install pg-hstore
+npm install sequelize
+
